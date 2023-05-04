@@ -14,7 +14,7 @@
   <exec_depend>proy_my_nav2_system</exec_depend>
   <exec_depend>my_nav2_system</exec_depend>
   <exec_depend>custom_interface</exec_depend>
-  <exec_depend>proy_provide_map</exec_depend>
+  <exec_depend>provide_map</exec_depend>
   <export>
     <build_type>ament_cmake</build_type>
   </export>
