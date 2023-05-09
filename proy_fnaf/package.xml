@@ -9,12 +9,10 @@
   <maintainer email="alejandronogbel@gmail.com">alumno</maintainer>
   <license>TODO: License declaration</license>
   <buildtool_depend>ament_cmake</buildtool_depend>
-  <exec_depend>proy_my_world</exec_depend>
-  <exec_depend>proy_my_slam</exec_depend>
-  <exec_depend>proy_my_nav2_system</exec_depend>
-  <exec_depend>my_nav2_system</exec_depend>
-  <exec_depend>custom_interface</exec_depend>
-  <exec_depend>provide_map</exec_depend>
+  <exec_depend>proy_fnaf_my_world</exec_depend>
+  <exec_depend>proy_fnaf_my_nav2_system</exec_depend>
+  <exec_depend>proy_fnaf_custom_interface</exec_depend>
+  <exec_depend>proy_fnaf_my_service</exec_depend>
   <export>
     <build_type>ament_cmake</build_type>
   </export>
