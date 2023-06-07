@@ -18,7 +18,7 @@
         <pose>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/sairo/turtlebot3_ws/src/proy_fnaf/proy_fnaf_my_world/models/my_world/my_world.stl</uri>
+            <uri>model://my_world/my_world.stl</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -39,7 +39,7 @@
         <pose>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/sairo/turtlebot3_ws/src/proy_fnaf/proy_fnaf_my_world/models/my_world/my_world.stl</uri>
+            <uri>model://my_world/my_world.stl</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
