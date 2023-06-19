@@ -43,16 +43,17 @@
       </ode>
     </physics>
 
+    <!-- nombre de la carpeta que quiera cargar, dentro de la carpeta my_world/models el name y la uri -->
     <model name="my_world">
       <static>1</static>
       <include>
-        <uri>model://my_world</uri>      
+        <uri>model://my_world</uri>
       </include>
     </model>
-     
+
     <include>
       <pose>-2.0 -0.5 0.01 0.0 0.0 0.0</pose>
-      <uri>model://turtlebot3_burger</uri>
+      <uri>model://turtlebot3_burger_pi</uri>
     </include>
 
   </world>
